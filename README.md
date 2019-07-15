@@ -1,4 +1,4 @@
-# Andela Bootcamp Learning Resourse
+# Andela Bootcamp Learning Resource
 
 
 ## Table of Contents
