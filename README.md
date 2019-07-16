@@ -37,7 +37,7 @@
 
 
 ## Project Management
-  * [Getting Started with Pivital Tracker](https://code.tutsplus.com/tutorials/pivotal-tracker-101-for-developers--cms-22588)
+  * [Getting Started with Pivotal Tracker](https://code.tutsplus.com/tutorials/pivotal-tracker-101-for-developers--cms-22588)
   
   
 
